@@ -2,11 +2,11 @@
 
 ## What this app is:
 
-A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and GitHub for version control, and launched on Heroku.
+This single-page to-do application features a fluid user interface that– by using JavaScript– allows users to rapidly add dynamic content.
 
-You may visit the deployed version [here](https://splurty-frederichodges.herokuapp.com/).
+You may visit the deployed version [here](https://todo-frederic-hodges.herokuapp.com/).
 
-![Splurty app screenshot](app/assets/images/splurty.PNG "Splurty app screenshot")
+![Todo app screenshot](app/assets/images/todo.PNG "todo app screenshot")
 
 ***
 # Setup
@@ -21,11 +21,11 @@ You may visit the deployed version [here](https://splurty-frederichodges.herokua
   
 1. **Clone repo:**
        
-        git@github.com:derfman9303/splurty.git
+        git@github.com:derfman9303/todo.git
         
 2. **On the command line, navigate to the Splurty directory**
         
-        cd splurty
+        cd todo
 
 3. **Create the database**
         
